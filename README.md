@@ -1,5 +1,7 @@
 # jqueryEditorDeployTest
 A small test environment for Datatables Editor
 
-To run: `gulp serve`
-To run out of dist/ `npm run serve:dist`
+-`npm install`
+-`node node_modules/datatables.net-editor/install.js pathToEditorZip`
+-To run: `gulp serve`
+-To run out of dist/ `npm run serve:dist`
